@@ -1,3 +1,8 @@
+# This program need to be converted to OOP so improve the code.
+# So convert the functions in to classes and also create an objects
+
+
+## Import Libaries
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
